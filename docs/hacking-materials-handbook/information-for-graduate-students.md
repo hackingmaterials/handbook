@@ -2,12 +2,15 @@
 
 A lot of MSE graduate student specific information would be covered by either the MSE department (e.g., the Graduate Student Handbook, which is updated every few months) or the Graduate Student Council (MSE GSC). However, you might want to ask the group members on how they actually managed to do things. If this is the case, feel free to contact graduate students in the group! Aside from specific Q/A, there are some general guidelines (compiled from Anubhav, alumni, and current students) which can help you do better as a graduate student.
 
+
+> [!NOTE]
+> The majority of this information was written by a previous MSE graduate student in 2023; items may have changed for newer years and are certainly different if you are in a different academic department. 
+
 ### Preliminary Exam and Classwork&#x20;
 
 #### Q. Recommendations on what classes to enroll & How do I enroll in classes?
 
-A. In general (but not always), a 1st-year MSE PhD student would want to take MSE classes in their first semester, especially considering that they would take a preliminary exam in January. MSE 201A is typically what most students take, feel free to take any other courses you want to learn/remind yourself of “broad” knowledge in Materials Science. Taking 1-3 classes in a semester would be general, but it is not very typical to take three or more courses a semester (you would probably want to get familiar with your project). You can also keep in mind that you can add/drop classes until some time after the semester begins. Basic instructions on signing in to classes is provided in below link:\
-[_https://registrar.berkeley.edu/registration/enrollment_](https://registrar.berkeley.edu/registration/enrollment)
+A. In general (but not always), a 1st-year MSE PhD student would want to take MSE classes in their first semester, especially considering that they would take a preliminary exam in January. MSE 201A is typically what most students take, feel free to take any other courses you want to learn/remind yourself of “broad” knowledge in Materials Science. Taking 1-3 classes in a semester would be general, but it is not very typical to take three or more courses a semester (you would probably want to get familiar with your project). You can also keep in mind that you can add/drop classes until some time after the semester begins. Basic instructions on signing in to classes is [provided by the Berkeley registrar](https://registrar.berkeley.edu/registration/enrollment).
 
 Here are some useful courses if you want to learn:
 
@@ -15,7 +18,7 @@ Here are some useful courses if you want to learn:
 2. Programming: CS61A and B
 3. Machine learning: CS200, CS289, CS288, CS285 It’s also really helpful to take a course directly related to your research project as soon as possible. For example, if you’re working on catalysis, it is in your best interest to take the surfaces MSE class as soon as you can (preferably in your first semester).
 
-Q. How to prepare for the preliminary exam at the end of the first semester?&#x20;
+#### Q. How to prepare for the preliminary exam at the end of the first semester?&#x20;
 
 A. The preliminary exam may be one of the most important things you need to deal with after you come here. It can also be a source of enormous stress if you are not prepared. The department will tell you about every rule of the exam, but they will not tell you much about how to actually prepare for the exam. Thus, it’s important to set aside a considerable amount of time to prepare thoroughly!&#x20;
 
@@ -65,7 +68,7 @@ A. Students usually take the qualifying exam between their 2nd and 3rd years. Th
 
 #### Q. How do I actually schedule the qualifying exam?&#x20;
 
-A. You need to first identify your committee members according to the requirements in the MSE Grad Student handbook. You should come up with a concise (\~ a short paragraph) proposal for your topic as well. You consult with Anubhav and your UC Berkeley advisor (Gerd, Kristin, etc.) to make sure your topics and examiners make sense. Once you do these things, you can actually schedule the exam. Scheduling the qualifying exam is sometimes more difficult than the exam itself. You’ll need to email your exam committee with at least a few months (if not more) of lead time to figure out when they can all meet during a common time slot. Tools like when2meet and Doodle are very useful for this purpose. It’s generally ok to reschedule for good reasons, but try not to! You’ll also need to file some formal paperwork according to the MSE GS manual declaring your committee and topic.&#x20;
+A. You need to first identify your committee members according to the requirements in the MSE Grad Student handbook. You should come up with a concise (a short paragraph) proposal for your topic as well. You consult with Anubhav and your UC Berkeley advisor (Gerd, Kristin, etc.) to make sure your topics and examiners make sense. Once you do these things, you can actually schedule the exam. Scheduling the qualifying exam is sometimes more difficult than the exam itself. You’ll need to email your exam committee with at least a few months (if not more) of lead time to figure out when they can all meet during a common time slot. Tools like when2meet and Doodle are very useful for this purpose. It’s generally ok to reschedule for good reasons, but try not to! You’ll also need to file some formal paperwork according to the MSE GS manual declaring your committee and topic.&#x20;
 
 #### Q. How should I prepare my presentation and proposal?&#x20;
 
@@ -95,14 +98,21 @@ In general, the proposal is not as important as the presentation itself. However
 
 #### Q. Is there a particular way I should answer questions during the exam?
 
-A. Yes. Here’s some examples. Examiner: “Have you considered using instead of you propose here?”&#x20;
+A. Yes. Here’s some examples. 
 
-**Bad answer:** “Uhhm, well, no. My advisor said we should use . I remember seeing is really good for this kind of problem.” \
-**Good answer:** “Yes, in fact we have looked into but it was limited because of . In particular, \<reason 1> causes the accuracy to be far off, often more than 200%. A recent study by Author et al. showed was both less accurate and more expensive than across solids. So, despite the fact requires empirical fitting and has problems like , it seems like the best approach at this time. However, I’m definitely open to suggestions - what do you think about ?” \
-**Examiner:** “I disagree with your conclusions on this slide. isn’t supportedbecause of . Can you explain more why you think is supported?&#x20;
+> **Examiner:** “Have you considered using `<method A>` instead of `<method B>` you propose here?”&#x20;
+> 
+> **Bad answer:** “Uhhm, well, no. My advisor said we should use `<method B>`. I remember seeing is really good for this kind of problem.”
+> 
+> **Good answer:** “Yes, in fact we have looked into but it was limited because of `<explanation>`. In particular, `<reason>` causes the accuracy to be far off, often more than 200%. A recent study by Author et al. showed was both less accurate and more expensive than across solids. So, despite the fact requires empirical fitting and has problems like `<problem>`, it seems like the best approach at this time. However, I’m definitely open to suggestions - what do you think about `<alternative>` ?”
 
-**Bad answer:** “Oh, you’re right. I don’t know why I put that in here. Sorry…” \
-**Good answer:** “I understand can be a point of contention because of . However, even counting I believe it is reasonable because of . More, Author2 et al. showed this kind of analysis still yields practical design principles although they are less rigorously derived. I suppose if we were to be particularly rigorous, we could amend to be . Then we would have accounted for . Does this seem more reasonable to you?”&#x20;
+---
+
+> **Examiner:** “I disagree with your conclusions on this slide. isn’t supported because of `<reason>`. Can you explain more why you think is supported?&#x20;
+> 
+> **Bad answer:** “Oh, you’re right. I don’t know why I put that in here. Sorry…”
+> 
+> **Good answer:** “I understand can be a point of contention because of . However, even counting I believe it is reasonable because of . More, Author2 et al. showed this kind of analysis still yields practical design principles although they are less rigorously derived. I suppose if we were to be particularly rigorous, we could amend to be . Then we would have accounted for . Does this seem more reasonable to you?”&#x20;
 
 #### Q. Anything else to watch out for?&#x20;
 

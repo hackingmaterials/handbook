@@ -36,6 +36,7 @@ theme:
 
 plugins:
   - search
+  - callouts
   - literate-nav:
       nav_file: SUMMARY.md
 
@@ -45,6 +46,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - admonition
 
 extra_css:
   - stylesheets/extra.css
